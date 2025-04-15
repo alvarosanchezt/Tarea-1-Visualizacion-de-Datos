@@ -1,4 +1,4 @@
-## Datasets
+## 📊 Datasets
 
 -  `2021_11_Presidencial_1V_Datos_Eleccion.xlsx`  
    - Descripción: Reporte Consolidado de la Elección Presidencial en Chile 2021.
@@ -10,3 +10,14 @@
    - Descripción: Encuesta de Pobreza por Ingreso.
    - Referencia: [Encuesta Casen Pandemia 2020](https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen-en-pandemia-2020)  
    -Usado en: `cr02_sb.py` (Hoja "8", Tabla "Total pobres")  
+
+-  `resultados_elecciones_presidenciales_ce_1989_2017_Chile.xlsx`
+   - **Descripción:** Base histórica con resultados de elecciones presidenciales en Chile desde 1989 hasta 2017. Incluye datos por comuna, candidato, partido político, y circunscripción.
+   - **Origen / Referencia:** [Registro Servel 1989-2017](https://www.servel.cl/wp-content/uploads/2022/12/resultados_elecciones_presidenciales_ce_1989_2017_Chile.xlsx)
+   -Usado en: `grafico5.py`
+   -Usado en: `grafico6.py`
+
+-  `Suma de Votos Totales y Primera fecha Candidato (a) por Año, Mes, Día, Votación Presidencial y Partido.csv`
+   - **Descripción:** Excel que se creo en PowerBi en base a`resultados_elecciones_presidenciales_ce_1989_2017_Chile.xlsx`
+   - **Origen / Referencia:** [Registro Servel 1989-2017](https://www.servel.cl/wp-content/uploads/2022/12/resultados_elecciones_presidenciales_ce_1989_2017_Chile.xlsx)
+   -Usado en: `grafico5.py`
