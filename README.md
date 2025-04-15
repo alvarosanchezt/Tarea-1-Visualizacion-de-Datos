@@ -55,3 +55,13 @@ python ./codigo/criterios-SB/cr01_sb.py --tipo continent_detail --continente EUR
 ```bash
 python ./codigo/criterios-SB/cr02_sb.py
 ```
+
+### Ejecución `cr01_bg.ipynb`
+
+Ejecutar la primera caja de código para ver el gráfico con Franco Parisi incluido.
+
+Ejecutar la segunda caja de código para ver el gráfico sin Franco Parisi.
+
+### Ejecución `cr02_bg.ipynb`
+
+Ejecutar la única caja en el archivo para que se abra el gráfico en el navegador predeterminado.
