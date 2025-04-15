@@ -59,6 +59,9 @@ python ./codigo/cr02_sb.py
 
 -  `2021_11_Presidencial_1V_Datos_Eleccion.xlsx`  
    - Referencia: [Registro Servel Elecciones 2021](https://app.powerbi.com/view?r=eyJrIjoiYTkyYjBjMTAtN2NiMC00ZWQ5LTg4MDMtYzc5MWNiYWFjZGRhIiwidCI6IjI0ODMxZWJlLWQyNmQtNGQzMC05ZmE4LWVmM2MwMjQzYjMyZSIsImMiOjR9)  
+   - Usado en: `cr01_sb.py`
+   - Usado en: `cr02_sb.py`
 
 -  `Pobreza_por_Ingreso_Casen_en_Pandemia_2020_revisado2022_09.xlsx`  
    - Referencia: [Encuesta Casen Pandemia 2020](https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen-en-pandemia-2020)  
+   -Usado en: `cr02_sb.py`  
