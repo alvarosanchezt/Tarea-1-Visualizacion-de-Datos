@@ -1,0 +1,12 @@
+## Datasets
+
+-  `2021_11_Presidencial_1V_Datos_Eleccion.xlsx`  
+   - Descripción: Reporte Consolidado de la Elección Presidencial en Chile 2021.
+   - Referencia: [Registro Servel Elecciones 2021](https://app.powerbi.com/view?r=eyJrIjoiYTkyYjBjMTAtN2NiMC00ZWQ5LTg4MDMtYzc5MWNiYWFjZGRhIiwidCI6IjI0ODMxZWJlLWQyNmQtNGQzMC05ZmE4LWVmM2MwMjQzYjMyZSIsImMiOjR9)  
+   - Usado en: `cr01_sb.py` (Hoja "Descripción votantes extranjero")  
+   - Usado en: `cr02_sb.py` (Hoja "Participación en Chile") 
+
+-  `Pobreza_por_Ingreso_Casen_en_Pandemia_2020_revisado2022_09.xlsx`  
+   - Descripción: Encuesta de Pobreza por Ingreso.
+   - Referencia: [Encuesta Casen Pandemia 2020](https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen-en-pandemia-2020)  
+   -Usado en: `cr02_sb.py` (Hoja "8", Tabla "Total pobres")  
